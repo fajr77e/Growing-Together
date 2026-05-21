@@ -1,6 +1,5 @@
 
 
-```markdown
 #  GreenPath: Tree Campaign Management System
 
 **GreenPath** is a comprehensive software system designed to manage tree planting campaigns and foster green communities. Developed using **Java (Java Swing)** and a **MySQL** database, the project aims to streamline environmental volunteering efforts, track tree growth and health status, and efficiently allocate tasks between administrators (Admins) and volunteers.
@@ -124,13 +123,6 @@ USE greenpath_db;
 * Implementing data visualization dashboards with graphical charts displaying monthly planting analytics.
 * Integrating a mobile-responsive companion layout with GPS capabilities for accurate geotagging of newly planted trees.
 * Automated certification engine to reward top-performing volunteers with completion certificates.
-
----
+\
 
 *Developed to support environmental sustainability and cultivate a greener future.*
-
-```
-
-Let me know if you would like to adjust any sections or add extra technical details!
-
-```
